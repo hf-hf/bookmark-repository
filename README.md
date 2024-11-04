@@ -1,3 +1,4 @@
+- [自己动手写 Git](https://wyag-zh.hanyujie.xyz/docs/2.-%E5%BC%80%E5%A7%8B.html)
 - [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/) #bookmark
 
 # About
